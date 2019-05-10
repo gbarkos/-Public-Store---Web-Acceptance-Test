@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Scenario: Succesfull price update" tests="7" skipped="0" failures="0" errors="0" timestamp="2018-11-29T18:09:48" hostname="DESKTOP-U91HRS1" time="75.185">
+  <properties/>
+  <testcase name="Given I navigate to &quot;https://www.public.gr/&quot;" classname="Scenario: Succesfull price update" time="0.0"/>
+  <testcase name="When I search for &quot;dan brown&quot;" classname="Scenario: Succesfull price update" time="0.0"/>
+  <testcase name="And I add two specific products to my cart" classname="Scenario: Succesfull price update" time="0.0"/>
+  <testcase name="And I open my cart" classname="Scenario: Succesfull price update" time="0.0"/>
+  <testcase name="And I increase the quantity of the second product by one" classname="Scenario: Succesfull price update" time="0.0"/>
+  <testcase name="Then I should see that the price has been correctly updated" classname="Scenario: Succesfull price update" time="0.0"/>
+  <testcase name="classMethod" classname="Scenario: Succesfull price update" time="115.326"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90) on port 25892
+Only local connections are allowed.
+]]></system-err>
+</testsuite>
